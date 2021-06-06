@@ -14,11 +14,11 @@ Arduino class for write data to external eeprom in i2c bus (zs-042 module)(ds323
 
 **Tested in:**
 
-ESP32
++ ESP32
++ Arduino NANO
 
 
-
-
+**about:**
 + Author: Andriy Kasandyuk,
 + Made in Ukraine,
 + Year: 2021,
