@@ -1,8 +1,8 @@
 Arduino class for write data to external eeprom in i2c bus (zs-042 module)(ds3231).
 	
 
-	// FLOAT -> 4 byte
-	// zs-042 => first 16 byte use DS3231
++ FLOAT -> 4 byte
++ zs-042 => first 16 byte use DS3231
 
 **functions:**
 
