@@ -18,14 +18,10 @@ ESP32
 
 
 
-
-
-
-
-/*
-	Author: Andriy Kasandyuk
-	Made in Ukraine
-	Year: 2021
-	Version: 1.0
+**
+	Author: Andriy Kasandyuk,
+	Made in Ukraine,
+	Year: 2021,
+	Version: 1.0,
 	FOR PERSONAL USE
-*/
+**
